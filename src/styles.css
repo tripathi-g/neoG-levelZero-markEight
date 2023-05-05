@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: #fefef5;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.emojiIcon {
+  list-style: none;
+  display: inline;
+  padding: 1rem;
+  font-size: 2rem;
+  cursor: pointer;
+}
